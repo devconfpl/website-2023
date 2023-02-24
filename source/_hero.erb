@@ -1,0 +1,36 @@
+<div class="jumbotron-fluid">
+    <div class="container-fluid">
+        <div class="main-display">
+            <div class="title">
+                <div class="main-display-title">DevConf</div>
+                <div class="main-display-title alternate"><%= data.general.year %></div>
+                <div class="subtitle">conference for professional software developers</div>
+            </div>            
+            <div class="important-info">
+                <div class="workshops">
+                    <div>8 Nov</div>
+                    <div>workshops</div>
+                </div>
+                <div class="conference">
+                    <div>9-10 Nov</div>
+                    <div>conference</div>
+                </div>
+                <div class="city">
+                    <div>Łódź</div>
+                    <div>city</div>
+                </div>
+            </div>
+            <div class="cta row no-gutters">
+                <div class="col-sm text-center">
+                    <a class="btn btn-outline-primary nav-btn" href="/#tickets" role="button">Get Tickets</a>
+                </div>
+                <% if data.general.cfp_open %>
+                  <div class="col-sm text-center">
+                      <a class="btn btn-outline-primary" href="<%= data.general.cfp_link %>" role="button">Apply to Speak!</a>
+                  </div>
+                <% end %>
+            </div>
+            <%#<%= partial "social_links" %>
+        </div>
+    </div>
+</div>

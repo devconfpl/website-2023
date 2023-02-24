@@ -1,0 +1,60 @@
+<%
+    tiers = ["Platinum", "Gold", "Silver", "Virtual"]
+%>
+
+<section id="sponsors">
+    <div class="container-fluid">
+        <div class="section-header text-center">
+            <h3>Sponsors</h3>
+            <p class="mb-1">
+                Companies that <strong>support us</strong>.
+            </p>
+            <p class="mb-1">
+                If you or your company would like to reserve a spot as a sponsor, contact us because we might have a good deal for you.
+            </p>
+        </div>
+        <div class="section-info text-center">
+            <p>
+                
+            </p>
+            <a class="btn btn-outline-primary mx-auto" href="mailto:contact@devconf.pl" role="button">Become a Sponsor!</a>
+        </div>
+
+        <div class="row justify-content-center flex-column mt-5">
+            <% tiers.each do |t| %>
+                <div class="sponsor-group">
+                    <h4><%= t %></h4>
+                    <% data.sponsors.select { |s| s.tier.casecmp(t) == 0 }.each do |s| %>
+                        <div class="sponsor sponsor-<%= s.tier %> <%= 'narrow' if s.narrow %>">
+                            <a href="<%= utm_link s.link %>">
+                                <%= tag :img, 
+                                    :src => '/images/sponsors/' + s.id + '.png', 
+                                    :alt => s.name 
+                                %>
+                            </a>
+                        </div>
+                    <% end %>
+                </div>
+            <% end %>
+        </div>
+     </div>
+</section>
+
+<section id="strategic-partner">
+    <div class="container-fluid">
+        <div class="section-header text-center">
+            <h3>Strategic Partner</h3>
+            <p class="mb-1">
+            </p>
+        </div>
+        <div class="row justify-content-center flex-column mt-5">
+            <div class="sponsor-group">
+                <div class="sponsor">
+                    <a href="https://www.linkedin.com/company/invest-in-lodz/">
+                        <img src="/images/sponsors/uml.png" alt="Urząd Miasta Łodzi" />
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
