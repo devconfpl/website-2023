@@ -5,7 +5,14 @@
 
 <div class="card text-center <%= active ? '' : 'inactive' %>">
     <div class="card-header">
-        <h5 class="card-title"><%= ticket.name %></h5>
+        <h5 class="card-title">
+            <%= ticket.name %>
+            <% if ticket.message %>
+                <span class="badge badge-danger" style="position: absolute; top: 25px; right: -34px; rotate: 45deg;">
+                    <%= ticket.message %>
+                </span>
+            <% end %>
+        </h5>
         <h6 class="card-subtitle"><%= ticket.price %></h6>
     </div>
     <div class="card-body empty">

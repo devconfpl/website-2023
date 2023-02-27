@@ -3,28 +3,29 @@
         "name": "Blind",
         "first_month": 1,
         "last_month": 4,
-        "price": 599,
-        "month_available": ""
+        "price": 799,
+        "month_available": "",
+        "message": "100 available"
     },
     {
         "name": "Early",
-        "first_month": 5,
-        "last_month": 5,
-        "price": 799,
-        "month_available": "May 2022"
+        "first_month": 7,
+        "last_month": 7,
+        "price": 999,
+        "month_available": "July 2022"
     },
     {
         "name": "Regular",
-        "first_month": 6,
-        "last_month": 7,
-        "price": 999,
-        "month_available": "June 2022"
+        "first_month": 8,
+        "last_month": 9,
+        "price": 1199,
+        "month_available": "August 2022"
     },
     {
         "name": "Late",
-        "first_month": 8,
-        "last_month": 9,
-        "price": 1299,
-        "month_available": "16 August 2022"
+        "first_month": 10,
+        "last_month": 11,
+        "price": 1499,
+        "month_available": "23 October 2022"
     }
 ]
