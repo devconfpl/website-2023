@@ -12,20 +12,20 @@
         "first_month": 7,
         "last_month": 7,
         "price": 999,
-        "month_available": "July 2022"
+        "month_available": "July 2023"
     },
     {
         "name": "Regular",
         "first_month": 8,
         "last_month": 9,
         "price": 1199,
-        "month_available": "August 2022"
+        "month_available": "August 2023"
     },
     {
         "name": "Late",
         "first_month": 10,
         "last_month": 11,
         "price": 1499,
-        "month_available": "23 October 2022"
+        "month_available": "23 October 2023"
     }
 ]
