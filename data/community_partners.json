@@ -1,3 +1,8 @@
 [
-    
+    {
+        "id": "cto-morning-coffee",
+        "name": "CTO Morning Coffee",
+        "link": "https://open.spotify.com/show/1uqt9gA2hMIHFeqBlPLi37",
+        "narrow": true
+    }
 ]
