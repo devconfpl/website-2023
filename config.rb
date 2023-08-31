@@ -27,11 +27,11 @@ page '/*.txt', layout: false
 #   },
 # )
 
-# visible_speakers = data.speakers.select{ |s| (defined? s.show) ? s.show : true }
+visible_speakers = data.speakers.select{ |s| (defined? s.show) ? s.show : true }
 
-# visible_speakers.each do |s|
-#   proxy "/speakers/#{s.tag}/index.html", "/person_template.html", :locals => { :person => s, :bio => @app.data.bios[s.tag] }, :ignore => true
-# end
+visible_speakers.each do |s|
+  proxy "/speakers/#{s.tag}/index.html", "/person_template.html", :locals => { :person => s, :bio => @app.data.bios[s.tag] }, :ignore => true
+end
 
 # data.program_committee.each do |pc|
 #   proxy "/program-committee/#{pc.tag}/index.html", "/person_template.html", :locals => { :person => pc }, :ignore => true

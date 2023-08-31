@@ -9,7 +9,7 @@
 %>
 
 <%= tag :img, 
-        :src => "/images/people/" + person.tag + '.png', 
+        :src => "/images/people/" + person.tag + '.png?1',
         :alt => person.name, 
         :class => "person-headshot " + (with_overlay ? " grayscale " : "") + (card_img ? " card-img-top" : "") %>
 

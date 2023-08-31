@@ -1,3 +1,52 @@
 [
-    
+    {
+        "name": "Spencer Schneidenbach",
+        "surname": "Schneidenbach",
+        "company": "Aviron Software",
+        "social": {
+            "twitter": "schneidenbach",
+            "linkedin": "sschneidenbach"
+        },
+        "tag": "spencer-schneidenbach"
+    },
+    {
+        "name": "Jimmy Bogard",
+        "surname": "Bogard",
+        "company": "Headspring",
+        "social": {
+            "twitter": "jbogard",
+            "linkedin": "jimmybogard"
+        },
+        "tag": "jimmy-bogard"
+    },
+    {
+        "name": "Sebastian Gębski",
+        "surname": "Gębski",
+        "company": "Amazon Web Services",
+        "social": {
+            "twitter": "liveweird",
+            "linkedin": "sebastian-gebski"
+        },
+        "tag": "sebastian-gebski"
+    },
+    {
+        "name": "Paul Stack",
+        "surname": "Stack",
+        "company": "System Initiative",
+        "social": {
+            "twitter": "stack72",
+            "linkedin": "stack72"
+        },
+        "tag": "paul-stack"
+    },
+    {
+        "name": "Rob Ashton",
+        "surname": "Ashton",
+        "company": "Software Consultant",
+        "social": {
+            "twitter": "robashton",
+            "linkedin": "robashton1337"
+        },
+        "tag": "rob-ashton"
+    }
 ]
