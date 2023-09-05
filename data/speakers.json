@@ -48,5 +48,15 @@
             "linkedin": "robashton1337"
         },
         "tag": "rob-ashton"
+    },
+    {
+        "name": "Tomasz Onyszko",
+        "surname": "Onyszko",
+        "company": "Predica Group",
+        "social": {
+            "twitter": "tonyszko",
+            "linkedin": "tomaszonyszko"
+        },
+        "tag": "tomasz-onyszko"
     }
 ]
