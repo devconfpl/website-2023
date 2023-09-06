@@ -58,5 +58,25 @@
             "linkedin": "tomaszonyszko"
         },
         "tag": "tomasz-onyszko"
+    },
+    {
+        "name": "Adam Ralph",
+        "surname": "Ralph",
+        "company": "Particular Software",
+        "social": {
+            "twitter": "adamralph",
+            "linkedin": "adamralph"
+        },
+        "tag": "adam-ralph"
+    },
+    {
+        "name": "Mattias Karlsson",
+        "surname": "Karlsson",
+        "company": "WCOM AB",
+        "social": {
+            "twitter": "devlead",
+            "linkedin": "devlead"
+        },
+        "tag": "mattias-karlsson"
     }
 ]
