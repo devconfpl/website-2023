@@ -1734,7 +1734,7 @@ section {
         .community-partner,
         .scholarship-partner {
             // min-width: 150px;
-            width: 250px;
+            width: 150px;
             text-align: center;
 
             &.narrow {
@@ -1742,14 +1742,16 @@ section {
             }
 
             img {
-                max-width: 250px;
-                height: 29px;
+                max-width: 150px;
+                height: auto;
             };
 
             &.narrow {
                 img {
                     //width: 100px;
-                    height: 100px;
+                    // height: 100px;
+                    min-height: 50px;
+                    max-height: 100px;
                 }
             }
         }
@@ -1759,7 +1761,7 @@ section {
 
             img {
                 // width: 150px;
-                max-width: 250px;
+                max-width: 150px;
                 height: 30px;
             }
         }
