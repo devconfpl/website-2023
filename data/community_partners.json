@@ -23,5 +23,11 @@
         "name": "Future Conf",
         "link": "https://www.futureconf.tech",
         "narrow": false
+    },
+    {
+        "id": "sphereit",
+        "name": "Sphere IT Conf",
+        "link": "https://sphere.it/event/sphere-it-conf-2023/",
+        "narrow": false
     }
 ]
