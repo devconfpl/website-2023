@@ -1,3 +1,45 @@
 [
-    
+    {
+        "id": "abb",
+        "name": "ABB",
+        "link": "https://new.abb.com/pl",
+        "tier": "platinum"
+    },
+    {
+        "id": "bgk",
+        "name": "Bank Gospodarstwa Krajowego",
+        "link": "https://www.bgk.pl/",
+        "tier": "gold",
+        "narrow": true
+    },
+    {
+        "id": "onwelo",
+        "name": "Onwelo",
+        "link": "https://onwelo.com/career,p6.html",
+        "tier": "gold"
+    },
+    {
+        "id": "idemia",
+        "name": "IDEMIA",
+        "link": "https://faceidemia.com.pl/",
+        "tier": "silver"
+    },
+    {
+        "id": "infopulse",
+        "name": "Infopulse",
+        "link": "https://www.infopulse.com/",
+        "tier": "silver"
+    },
+    {
+        "id": "godel",
+        "name": "Godel Technologies",
+        "link": "https://www.godeltech.com/",
+        "tier": "silver"
+    },
+    {
+        "id": "happyteam",
+        "name": "HappyTeam",
+        "link": "https://happyteam.io/",
+        "tier": "virtual"
+    }
 ]
