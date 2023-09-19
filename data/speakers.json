@@ -78,5 +78,15 @@
             "linkedin": "devlead"
         },
         "tag": "mattias-karlsson"
+    },
+    {
+        "name": "Ewald Verhoeven",
+        "surname": "Verhoeven",
+        "company": "TestCoders",
+        "social": {
+            "twitter": "",
+            "linkedin": "ewald-verhoeven-7581a122"
+        },
+        "tag": "ewald-verhoeven"
     }
 ]
