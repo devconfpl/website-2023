@@ -98,5 +98,15 @@
             "linkedin": "pawel-zawislak"
         },
         "tag": "pawel-zawislak"
+    },
+    {
+        "name": "Wojciech Ptak",
+        "surname": "Ptak",
+        "company": "Revolut",
+        "social": {
+            "twitter": "wjptak",
+            "linkedin": "wojtekptak"
+        },
+        "tag": "wojciech-ptak"
     }
 ]
