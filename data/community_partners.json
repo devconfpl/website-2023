@@ -29,5 +29,11 @@
         "name": "Sphere IT Conf",
         "link": "https://sphere.it/event/sphere-it-conf-2023/",
         "narrow": false
+    },
+    {
+        "id": "techies-space",
+        "name": "Techie's Space",
+        "link": "https://techiesspace.pl",
+        "narrow": false
     }
 ]
