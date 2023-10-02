@@ -9,5 +9,14 @@
             "wojciech-ptak"
         ],
         "slot": 117
+    },
+    {
+        "id": "taming-the-fintech-beast",
+        "title": "Taming the FinTech Beast",
+        "speaker_id": "raman-but-husaim",
+        "speaker_tags": [
+            "raman-but-husaim"
+        ],
+        "slot": 123
     }
 ]
