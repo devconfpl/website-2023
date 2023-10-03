@@ -92,6 +92,15 @@
         "slot": 125
     },
     {
+        "id": "accelerating-software-delivery",
+        "title": "Accelerating Software Delivery: Why Your Team Is Slowing Down",
+        "speaker_id": "ewald-verhoeven",
+        "speaker_tags": [
+            "ewald-verhoeven"
+        ],
+        "slot": 126
+    },
+    {
         "id": "tales-from-the-net7-migration-trenches",
         "title": "Tales From the .NET 7 Migration Trenches",
         "speaker_id": "jimmy-bogard",
@@ -108,6 +117,15 @@
             "rob-ashton"
         ],
         "slot": 133
+    },
+    {
+        "id": "a-deep-dive-on-running-background-tasks-in-net-core",
+        "title": "A Deep Dive on Running Background Tasks in .NET Core",
+        "speaker_id": "spencer-schneidenbach",
+        "speaker_tags": [
+            "spencer-schneidenbach"
+        ],
+        "slot": 134
     },
     {
         "id": "from-hell-to-heaven",
