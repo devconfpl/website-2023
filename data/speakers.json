@@ -229,5 +229,15 @@
             "linkedin": "markus-oberlehner-5800b5169"
         },
         "tag": "markus-oberlehner"
+    },
+    {
+        "name": "Toni Petrina",
+        "surname": "Petrina",
+        "company": "e-conomic",
+        "social": {
+            "twitter": "tonipetrina1",
+            "linkedin": "tonipetrina"
+        },
+        "tag": "toni-petrina"
     }
 ]

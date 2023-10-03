@@ -27,6 +27,15 @@
         "slot": 113
     },
     {
+        "id": "lessons-learned-after-more-than-20-years-working-in-it",
+        "title": "Lessons Learned After More Than 20 Years Working In IT",
+        "speaker_id": "antonio-cobo",
+        "speaker_tags": [
+            "antonio-cobo"
+        ],
+        "slot": 114
+    },
+    {
         "id": "javascript-beats-cancer",
         "title": "JavaScript Beats Cancer",
         "speaker_id": "karol-przystalski",
@@ -155,6 +164,24 @@
         "slot": 143
     },
     {
+        "id": "asynchronous-ux",
+        "title": "Asynchronous UX",
+        "speaker_id": "toni-petrina",
+        "speaker_tags": [
+            "toni-petrina"
+        ],
+        "slot": 144
+    },
+    {
+        "id": "m-shaped-developer",
+        "title": "M-shaped Developer: One Language Across Multiple Platforms With Dart and Flutter",
+        "speaker_id": "pawel-zawislak",
+        "speaker_tags": [
+            "pawel-zawislak"
+        ],
+        "slot": 145
+    },
+    {
         "id": "behind-the-streams",
         "title": "Behind the Streams: An In-Depth Look At ML- and AI-Powered Analysis of FPS Gameplay",
         "speaker_id": "spencer-schneidenbach",
@@ -182,11 +209,20 @@
         "slot": 215
     },
     {
-        "id": "lessons-learned-after-more-than-20-years-working-in-it",
-        "title": "Lessons Learned After More Than 20 Years Working In IT",
-        "speaker_id": "antonio-cobo",
+        "id": "how-not-to-be-wrong-in-software-engineering",
+        "title": "How Not to Be Wrong in Software Engineering",
+        "speaker_id": "berwout-de-vries-robles",
         "speaker_tags": [
-            "antonio-cobo"
+            "berwout-de-vries-robles"
+        ],
+        "slot": 217
+    },
+    {
+        "id": "porting-code-lessons-learned",
+        "title": "Porting Code - Lessons Learned",
+        "speaker_id": "toni-petrina",
+        "speaker_tags": [
+            "toni-petrina"
         ],
         "slot": 222
     },
@@ -198,14 +234,5 @@
             "lemon"
         ],
         "slot": 232
-    },
-    {
-        "id": "how-not-to-be-wrong-in-software-engineering",
-        "title": "How Not to Be Wrong in Software Engineering",
-        "speaker_id": "berwout-de-vries-robles",
-        "speaker_tags": [
-            "berwout-de-vries-robles"
-        ],
-        "slot": 217
     }
 ]
