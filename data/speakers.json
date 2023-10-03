@@ -259,5 +259,15 @@
             "linkedin": ""
         },
         "tag": "krzysztof-cieslak"
+    },
+    {
+        "name": "Agata Chudzińska",
+        "surname": "Chudzińska",
+        "company": "theBlue.ai",
+        "social": {
+            "twitter": "",
+            "linkedin": "agata-chudzinska"
+        },
+        "tag": "agata-chudzinska"
     }
 ]

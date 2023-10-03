@@ -227,6 +227,15 @@
         "slot": 215
     },
     {
+        "id": "from-sandbox-to-real-world",
+        "title": "From Sandbox to Real World: Lessons Learned From Implementing Generative AI Solutions",
+        "speaker_id": "agata-chudzinska",
+        "speaker_tags": [
+            "agata-chudzinska"
+        ],
+        "slot": 216
+    },
+    {
         "id": "how-not-to-be-wrong-in-software-engineering",
         "title": "How Not to Be Wrong in Software Engineering",
         "speaker_id": "berwout-de-vries-robles",
