@@ -182,6 +182,24 @@
         "slot": 145
     },
     {
+        "id": "history-in-the-making",
+        "title": "History in the Making: On Computer Preservation",
+        "speaker_id": "tomer-gabel",
+        "speaker_tags": [
+            "tomer-gabel"
+        ],
+        "slot": 211
+    },
+    {
+        "id": "bringing-the-power-of-ai",
+        "title": "Bringing the Power of AI to Your Application",
+        "speaker_id": "krzysztof-cieslak",
+        "speaker_tags": [
+            "krzysztof-cieslak"
+        ],
+        "slot": 212
+    },
+    {
         "id": "behind-the-streams",
         "title": "Behind the Streams: An In-Depth Look At ML- and AI-Powered Analysis of FPS Gameplay",
         "speaker_id": "spencer-schneidenbach",

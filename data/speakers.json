@@ -239,5 +239,25 @@
             "linkedin": "tonipetrina"
         },
         "tag": "toni-petrina"
+    },
+    {
+        "name": "Tomer Gabel",
+        "surname": "Gabel",
+        "company": "Substrate Software Services",
+        "social": {
+            "twitter": "tomerg",
+            "linkedin": "tomergabel"
+        },
+        "tag": "tomer-gabel"
+    },
+    {
+        "name": "Krysztof Cieślak",
+        "surname": "Cieślak",
+        "company": "",
+        "social": {
+            "twitter": "k_cieslak",
+            "linkedin": ""
+        },
+        "tag": "krzysztof-cieslak"
     }
 ]
