@@ -118,5 +118,96 @@
             "linkedin": "raman-b-208093ab"
         },
         "tag": "raman-but-husaim"
+    },
+    {
+        "name": "Heather Downing",
+        "surname": "Downing",
+        "company": "Quorralyne Development",
+        "social": {
+            "twitter": "quorralyne",
+            "linkedin": "heathermdowning"
+        },
+        "tag": "heather-downing"
+    },
+    {
+        "name": "Marek Urbanowicz",
+        "surname": "Urbanowicz",
+        "company": "Incubly",
+        "social": {
+            "twitter": "UrbanowiczDev",
+            "linkedin": "marek-urbanowicz"
+        },
+        "tag": "marek-urbanowicz"
+    },
+    {
+        "name": "Sebastian Gębski, Tomasz Onyszko, Wojciech Ptak",
+        "surname": "Gębski",
+        "company": "",
+        "social": {
+            "twitter": "",
+            "linkedin": ""
+        },
+        "tag": "sebastian-gebski-tomasz-onyszko-wojciech-ptak",
+        "show": false
+    },
+    {
+        "name": "Antonio Cobo",
+        "surname": "Cobo",
+        "company": "Contino",
+        "social": {
+            "twitter": "Mind_of_AC",
+            "linkedin": "antoniocobocuenca"
+        },
+        "tag": "antonio-cobo"
+    },
+    {
+        "name": "Dennie Declercq",
+        "surname": "Declercq",
+        "company": "DDSoft",
+        "social": {
+            "twitter": "DennieDeclercq",
+            "linkedin": "dennie-declercq-822086a2"
+        },
+        "tag": "dennie-declercq"
+    },
+    {
+        "name": "Lemon 🍋",
+        "surname": "Lemon",
+        "company": "AhoyLemon",
+        "social": {
+            "twitter": "AhoyLemon",
+            "linkedin": ""
+        },
+        "tag": "lemon"
+    },
+    {
+        "name": "Karol Przystalski",
+        "surname": "Przystalski",
+        "company": "Codete",
+        "social": {
+            "twitter": "kprzystalski",
+            "linkedin": "karolprzystalski"
+        },
+        "tag": "karol-przystalski"
+    },
+    {
+        "name": "Nico Vermeir",
+        "surname": "Vermeir",
+        "company": "Inetum-Realdolmen",
+        "social": {
+            "twitter": "nicovermeir",
+            "linkedin": "nicovermeir"
+        },
+        "tag": "nico-vermeir"
+    },
+    {
+        "name": "Berwout de Vries Robles",
+        "surname": "de Vries Robles",
+        "company": "OpenValue",
+        "social": {
+            "twitter": "berwout_dvr",
+            "linkedin": "berwout-de-vries-robles"
+        },
+        "tag": "berwout-de-vries-robles"
     }
 ]

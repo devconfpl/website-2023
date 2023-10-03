@@ -37,6 +37,12 @@
         "tier": "silver"
     },
     {
+        "id": "sollers",
+        "name": "Sollers Consulting",
+        "link": "https://sollers.eu/",
+        "tier": "silver"
+    },
+    {
         "id": "happyteam",
         "name": "HappyTeam",
         "link": "https://happyteam.io/",

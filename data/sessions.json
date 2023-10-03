@@ -1,5 +1,41 @@
 [
     {
+        "id": "visible-developer",
+        "title": "The Visible Developer: Why You Shouldn't Blend In",
+        "speaker_id": "heather-downing",
+        "speaker_tags": [
+            "heather-downing"
+        ],
+        "slot": 111
+    },
+    {
+        "id": "five-common-mistakes-with-distributed-systems",
+        "title": "Five Common Mistakes With Distributed Systems",
+        "speaker_id": "adam-ralph",
+        "speaker_tags": [
+            "adam-ralph"
+        ],
+        "slot": 112
+    },
+    {
+        "id": "tackling-cloud-complexity",
+        "title": "Tackling Cloud Complexity - Recipes From Real-World Projects",
+        "speaker_id": "marek-urbanowicz",
+        "speaker_tags": [
+            "marek-urbanowicz"
+        ],
+        "slot": 113
+    },
+    {
+        "id": "javascript-beats-cancer",
+        "title": "JavaScript Beats Cancer",
+        "speaker_id": "karol-przystalski",
+        "speaker_tags": [
+            "karol-przystalski"
+        ],
+        "slot": 115
+    },
+    {
         "id": "tame-your-cto",
         "title": "Tame Your CTO (& Let Yourself Be Tamed)",
         "speaker_id": "sebastian-gebski-tomasz-onyszko-wojciech-ptak",
@@ -18,5 +54,77 @@
             "raman-but-husaim"
         ],
         "slot": 123
+    },
+    {
+        "id": "less-is-more-a-build-pipeline-for-the-modern-age",
+        "title": "Less is More - a Build Pipeline for the Modern Age",
+        "speaker_id": "adam-ralph",
+        "speaker_tags": [
+            "adam-ralph"
+        ],
+        "slot": 124
+    },
+    {
+        "id": "from-hell-to-heaven",
+        "title": "From Hell to Heaven: Porting Doom to MAUI",
+        "speaker_id": "nico-vermeir",
+        "speaker_tags": [
+            "nico-vermeir"
+        ],
+        "slot": 135
+    },
+    {
+        "id": "how-to-make-your-website-a-pwa",
+        "title": "How To Make Your Website A Progressive Web App (And Why You Might Want To)",
+        "speaker_id": "lemon",
+        "speaker_tags": [
+            "lemon"
+        ],
+        "slot": 142
+    },
+    {
+        "id": "its-time-to-rebuild-devops",
+        "title": "It's Time to Rebuild DevOps",
+        "speaker_id": "paul-stack",
+        "speaker_tags": [
+            "paul-stack"
+        ],
+        "slot": 214
+    },
+    {
+        "id": "copiloting-my-autism-in-tech",
+        "title": "COPilotING My Autism in Tech",
+        "speaker_id": "dennie-declercq",
+        "speaker_tags": [
+            "dennie-declercq"
+        ],
+        "slot": 215
+    },
+    {
+        "id": "lessons-learned-after-more-than-20-years-working-in-it",
+        "title": "Lessons Learned After More Than 20 Years Working In IT",
+        "speaker_id": "antonio-cobo",
+        "speaker_tags": [
+            "antonio-cobo"
+        ],
+        "slot": 222
+    },
+    {
+        "id": "solving-layout-challenges-with-pure-sass",
+        "title": "Solving Layout Challenges With Pure Sass",
+        "speaker_id": "lemon",
+        "speaker_tags": [
+            "lemon"
+        ],
+        "slot": 232
+    },
+    {
+        "id": "how-not-to-be-wrong-in-software-engineering",
+        "title": "How Not to Be Wrong in Software Engineering",
+        "speaker_id": "berwout-de-vries-robles",
+        "speaker_tags": [
+            "berwout-de-vries-robles"
+        ],
+        "slot": 217
     }
 ]
