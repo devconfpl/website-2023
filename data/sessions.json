@@ -146,6 +146,24 @@
         "slot": 142
     },
     {
+        "id": "there-and-back-again-from-mpas-to-spas-and-back",
+        "title": "There and Back Again: From MPAs to SPAs and Back",
+        "speaker_id": "markus-oberlehner",
+        "speaker_tags": [
+            "markus-oberlehner"
+        ],
+        "slot": 143
+    },
+    {
+        "id": "behind-the-streams",
+        "title": "Behind the Streams: An In-Depth Look At ML- and AI-Powered Analysis of FPS Gameplay",
+        "speaker_id": "spencer-schneidenbach",
+        "speaker_tags": [
+            "spencer-schneidenbach"
+        ],
+        "slot": 213
+    },
+    {
         "id": "its-time-to-rebuild-devops",
         "title": "It's Time to Rebuild DevOps",
         "speaker_id": "paul-stack",
