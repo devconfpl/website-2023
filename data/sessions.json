@@ -36,6 +36,15 @@
         "slot": 115
     },
     {
+        "id": "demystifying-web-api-security-in-azure",
+        "title": "Demystifying Web API Security in Azure",
+        "speaker_id": "jimmy-bogard",
+        "speaker_tags": [
+            "jimmy-bogard"
+        ],
+        "slot": 116
+    },
+    {
         "id": "tame-your-cto",
         "title": "Tame Your CTO (& Let Yourself Be Tamed)",
         "speaker_id": "sebastian-gebski-tomasz-onyszko-wojciech-ptak",
@@ -45,6 +54,15 @@
             "wojciech-ptak"
         ],
         "slot": 117
+    },
+    {
+        "id": "surviving-operational-chernobyl",
+        "title": "Surviving Operational 'Chernobyl'",
+        "speaker_id": "grzegorz-sztandera",
+        "speaker_tags": [
+            "grzegorz-sztandera"
+        ],
+        "slot": 122
     },
     {
         "id": "taming-the-fintech-beast",
@@ -63,6 +81,33 @@
             "adam-ralph"
         ],
         "slot": 124
+    },
+    {
+        "id": "net-supply-chain-beneath-the-surface",
+        "title": ".NET Supply Chain Beneath the Surface",
+        "speaker_id": "mattias-karlsson",
+        "speaker_tags": [
+            "mattias-karlsson"
+        ],
+        "slot": 125
+    },
+    {
+        "id": "tales-from-the-net7-migration-trenches",
+        "title": "Tales From the .NET 7 Migration Trenches",
+        "speaker_id": "jimmy-bogard",
+        "speaker_tags": [
+            "jimmy-bogard"
+        ],
+        "slot": 132
+    },
+    {
+        "id": "implementing-modern-types-in-c",
+        "title": "Implementing Modern Types in C#",
+        "speaker_id": "rob-ashton",
+        "speaker_tags": [
+            "rob-ashton"
+        ],
+        "slot": 133
     },
     {
         "id": "from-hell-to-heaven",
