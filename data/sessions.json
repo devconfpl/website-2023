@@ -254,6 +254,15 @@
         "slot": 222
     },
     {
+        "id": "breaking-silos-with-innersource",
+        "title": "Breaking Silos With InnerSource",
+        "speaker_id": "katarzyna-osuch-bukowska",
+        "speaker_tags": [
+            "katarzyna-osuch-bukowska"
+        ],
+        "slot": 223
+    },
+    {
         "id": "solving-layout-challenges-with-pure-sass",
         "title": "Solving Layout Challenges With Pure Sass",
         "speaker_id": "lemon",
