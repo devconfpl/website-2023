@@ -263,6 +263,15 @@
         "slot": 223
     },
     {
+        "id": "bumpy-12-months-road",
+        "title": "Bumpy 12 Months Road to Transform Team of Mercenaries Into Product Minded Team",
+        "speaker_id": "jakub-legowik",
+        "speaker_tags": [
+            "jakub-legowik"
+        ],
+        "slot": 224
+    },
+    {
         "id": "solving-layout-challenges-with-pure-sass",
         "title": "Solving Layout Challenges With Pure Sass",
         "speaker_id": "lemon",
