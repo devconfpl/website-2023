@@ -289,5 +289,25 @@
             "linkedin": "jakub-legowik"
         },
         "tag": "jakub-legowik"
+    },
+    {
+        "name": "Daniel Gaszewski",
+        "surname": "Gaszewski",
+        "company": "Sopra Steria",
+        "social": {
+            "twitter": "",
+            "linkedin": "daniel-gaszewski-62a9a810b"
+        },
+        "tag": "daniel-gaszewski"
+    },
+    {
+        "name": "Karol Górski",
+        "surname": "Góski",
+        "company": "Sollers Consulting",
+        "social": {
+            "twitter": "",
+            "linkedin": "karol-gorski"
+        },
+        "tag": "karol-gorski"
     }
 ]

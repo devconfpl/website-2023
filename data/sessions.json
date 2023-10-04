@@ -272,6 +272,24 @@
         "slot": 224
     },
     {
+        "id": "unicorns-baby-steps",
+        "title": "Unicorn’s Baby Steps: What Should You Know (& Do) As a First-Time Startup CTO",
+        "speaker_id": "sebastian-gebski",
+        "speaker_tags": [
+            "sebastian-gebski"
+        ],
+        "slot": 225
+    },
+    {
+        "id": "computer-simulations-of-social-behavior-with-cellular-automata",
+        "title": "Computer Simulations of Social Behavior With Cellular Automata",
+        "speaker_id": "daniel-gaszewski",
+        "speaker_tags": [
+            "daniel-gaszewski"
+        ],
+        "slot": 226
+    },
+    {
         "id": "solving-layout-challenges-with-pure-sass",
         "title": "Solving Layout Challenges With Pure Sass",
         "speaker_id": "lemon",
@@ -279,5 +297,14 @@
             "lemon"
         ],
         "slot": 232
+    },
+    {
+        "id": "orm-insights",
+        "title": "ORM Insights - How to Not Hurt Yourself?",
+        "speaker_id": "karol-gorski",
+        "speaker_tags": [
+            "karol-gorski"
+        ],
+        "slot": 233
     }
 ]
