@@ -309,5 +309,15 @@
             "linkedin": "karol-gorski"
         },
         "tag": "karol-gorski"
+    },
+    {
+        "name": "Cory House",
+        "surname": "House",
+        "company": "",
+        "social": {
+            "twitter": "housecor",
+            "linkedin": "coryhouse"
+        },
+        "tag": "cory-house"
     }
 ]

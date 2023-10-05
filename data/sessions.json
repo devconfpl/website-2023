@@ -146,6 +146,15 @@
         "slot": 135
     },
     {
+        "id": "effective-automated-testing",
+        "title": "Effective Automated Testing - Lessons from 10 Years",
+        "speaker_id": "cory-house",
+        "speaker_tags": [
+            "cory-house"
+        ],
+        "slot": 136
+    },
+    {
         "id": "how-to-make-your-website-a-pwa",
         "title": "How To Make Your Website A Progressive Web App (And Why You Might Want To)",
         "speaker_id": "lemon",
@@ -306,5 +315,14 @@
             "karol-gorski"
         ],
         "slot": 233
+    },
+    {
+        "id": "the-immutable-laws-of-life-and-software",
+        "title": "The Immutable Laws of Software and Life: Code Accordingly",
+        "speaker_id": "cory-house",
+        "speaker_tags": [
+            "cory-house"
+        ],
+        "slot": 234
     }
 ]
