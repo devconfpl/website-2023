@@ -13,6 +13,13 @@
         "narrow": true
     },
     {
+        "id": "hitachi",
+        "name": "Hitachi Energy",
+        "link": "https://www.hitachienergy.com/about-us/country-and-regional-information/poland",
+        "tier": "gold",
+        "narrow": true
+    },
+    {
         "id": "onwelo",
         "name": "Onwelo",
         "link": "https://onwelo.com/career,p6.html",
