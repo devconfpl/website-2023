@@ -319,5 +319,16 @@
             "linkedin": "coryhouse"
         },
         "tag": "cory-house"
+    },
+    {
+        "name": "Organizers, Adam Pustelnik, ABB",
+        "surname": "organizers",
+        "company": "",
+        "social": {
+            "twitter": "",
+            "linkedin": ""
+        },
+        "tag": "organizers-pustelnik-abb",
+        "show": false
     }
 ]

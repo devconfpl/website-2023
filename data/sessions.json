@@ -1,5 +1,14 @@
 [
     {
+        "id": "opening",
+        "title": "Conference Opening",
+        "speaker_id": "organizers-pustelnik-abb",
+        "speaker_tags": [
+            "organizers-pustelnik-abb"
+        ],
+        "slot": 110
+    },
+    {
         "id": "visible-developer",
         "title": "The Visible Developer: Why You Shouldn't Blend In",
         "speaker_id": "heather-downing",
