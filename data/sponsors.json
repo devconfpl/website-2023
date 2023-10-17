@@ -20,6 +20,13 @@
         "narrow": true
     },
     {
+        "id": "harman",
+        "name": "Harman",
+        "link": "https://www.harman.com/",
+        "tier": "gold",
+        "narrow": true
+    },
+    {
         "id": "onwelo",
         "name": "Onwelo",
         "link": "https://onwelo.com/career,p6.html",
