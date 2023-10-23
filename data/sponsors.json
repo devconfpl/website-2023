@@ -61,5 +61,11 @@
         "name": "HappyTeam",
         "link": "https://happyteam.io/",
         "tier": "virtual"
+    },
+    {
+        "id": "kantar",
+        "name": "Kantar",
+        "link": "https://www.kantar.com/pl",
+        "tier": "virtual"
     }
 ]
