@@ -200,6 +200,15 @@
         "slot": 145
     },
     {
+        "id": "is-no-code-eating-the-software-world",
+        "title": "Is No-Code eating the software world?",
+        "speaker_id": "tomasz-wesolowski",
+        "speaker_tags": [
+            "tomasz-wesolowski"
+        ],
+        "slot": 146
+    },
+    {
         "id": "history-in-the-making",
         "title": "History in the Making: On Computer Preservation",
         "speaker_id": "tomer-gabel",

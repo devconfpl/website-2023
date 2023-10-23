@@ -330,5 +330,15 @@
         },
         "tag": "organizers-pustelnik-abb",
         "show": false
+    },
+    {
+        "name": "Tomasz Wesołowski",
+        "surname": "Wesołowski",
+        "company": "",
+        "social": {
+            "twitter": "twesolowski",
+            "linkedin": "tomaszwesolowski"
+        },
+        "tag": "tomasz-wesolowski"
     }
 ]
