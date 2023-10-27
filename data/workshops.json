@@ -1,5 +1,12 @@
 {
     "items": [
-      
+        {
+            "speaker_tags": ["jakub-kubrynski"],
+            "speaker_photo_tag": "jakub-kubrynski",
+            "title": "Architektura Systemów Rozproszonych - Kiedy i Jak Warto z Nimi Żyć",
+            "tag": "architektura-systemow-rozproszonych",
+            "description_template": "architektura_systemow_rozproszonych",
+            "summary": "Podczas warsztatów podejdziemy holistycznie do architektury systemów rozproszonych."
+          }
     ]
 }
