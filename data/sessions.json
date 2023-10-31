@@ -209,11 +209,11 @@
         "slot": 146
     },
     {
-        "id": "history-in-the-making",
-        "title": "History in the Making: On Computer Preservation",
-        "speaker_id": "tomer-gabel",
+        "id": "how-not-to-be-wrong-in-software-engineering",
+        "title": "How Not to Be Wrong in Software Engineering",
+        "speaker_id": "berwout-de-vries-robles",
         "speaker_tags": [
-            "tomer-gabel"
+            "berwout-de-vries-robles"
         ],
         "slot": 211
     },
@@ -263,11 +263,11 @@
         "slot": 216
     },
     {
-        "id": "how-not-to-be-wrong-in-software-engineering",
-        "title": "How Not to Be Wrong in Software Engineering",
-        "speaker_id": "berwout-de-vries-robles",
+        "id": "the-immutable-laws-of-life-and-software",
+        "title": "The Immutable Laws of Software and Life: Code Accordingly",
+        "speaker_id": "cory-house",
         "speaker_tags": [
-            "berwout-de-vries-robles"
+            "cory-house"
         ],
         "slot": 217
     },
@@ -342,14 +342,5 @@
             "antoni-lecki"
         ],
         "slot": 234
-    },
-    {
-        "id": "the-immutable-laws-of-life-and-software",
-        "title": "The Immutable Laws of Software and Life: Code Accordingly",
-        "speaker_id": "cory-house",
-        "speaker_tags": [
-            "cory-house"
-        ],
-        "slot": 235
     }
 ]
