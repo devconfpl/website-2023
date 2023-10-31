@@ -335,12 +335,21 @@
         "slot": 233
     },
     {
+        "id": "how-to-create-your-development-opportunities",
+        "title": "How to Create Your Development Opportunities Through the Strength of Organizational Communities.",
+        "speaker_id": "antoni-lecki",
+        "speaker_tags": [
+            "antoni-lecki"
+        ],
+        "slot": 234
+    },
+    {
         "id": "the-immutable-laws-of-life-and-software",
         "title": "The Immutable Laws of Software and Life: Code Accordingly",
         "speaker_id": "cory-house",
         "speaker_tags": [
             "cory-house"
         ],
-        "slot": 234
+        "slot": 235
     }
 ]

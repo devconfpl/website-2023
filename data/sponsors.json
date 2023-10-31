@@ -67,5 +67,12 @@
         "name": "Kantar",
         "link": "https://www.kantar.com/pl",
         "tier": "virtual"
+    },
+    {
+        "id": "commerzbank",
+        "name": "Commerzbank",
+        "link": "https://lodz.commerzbank.pl",
+        "tier": "gold",
+        "narrow": true
     }
 ]
