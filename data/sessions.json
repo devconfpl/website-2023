@@ -247,9 +247,9 @@
     {
         "id": "closing",
         "title": "Conference Closing",
-        "speaker_id": "organizers-pustelnik-abb",
+        "speaker_id": "organizers",
         "speaker_tags": [
-            "organizers-pustelnik-abb"
+            "organizers"
         ],
         "slot": 217
     },

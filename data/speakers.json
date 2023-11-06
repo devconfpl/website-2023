@@ -302,6 +302,17 @@
         "show": false
     },
     {
+        "name": "Organizers",
+        "surname": "organizers",
+        "company": "",
+        "social": {
+            "twitter": "",
+            "linkedin": ""
+        },
+        "tag": "organizers",
+        "show": false
+    },
+    {
         "name": "Tomasz Wesołowski",
         "surname": "Wesołowski",
         "company": "",
