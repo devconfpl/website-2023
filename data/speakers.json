@@ -181,16 +181,6 @@
         "tag": "lemon"
     },
     {
-        "name": "Karol Przystalski",
-        "surname": "Przystalski",
-        "company": "Codete",
-        "social": {
-            "twitter": "kprzystalski",
-            "linkedin": "karolprzystalski"
-        },
-        "tag": "karol-przystalski"
-    },
-    {
         "name": "Nico Vermeir",
         "surname": "Vermeir",
         "company": "Inetum-Realdolmen",
@@ -299,16 +289,6 @@
             "linkedin": "karol-gorski"
         },
         "tag": "karol-gorski"
-    },
-    {
-        "name": "Cory House",
-        "surname": "House",
-        "company": "",
-        "social": {
-            "twitter": "housecor",
-            "linkedin": "coryhouse"
-        },
-        "tag": "cory-house"
     },
     {
         "name": "Organizers, Adam Pustelnik, ABB",
