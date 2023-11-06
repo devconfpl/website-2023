@@ -45,11 +45,11 @@
         "slot": 114
     },
     {
-        "id": "javascript-beats-cancer",
-        "title": "JavaScript Beats Cancer",
-        "speaker_id": "karol-przystalski",
+        "id": "accelerating-software-delivery",
+        "title": "Accelerating Software Delivery: Why Your Team Is Slowing Down",
+        "speaker_id": "ewald-verhoeven",
         "speaker_tags": [
-            "karol-przystalski"
+            "ewald-verhoeven"
         ],
         "slot": 115
     },
@@ -110,11 +110,11 @@
         "slot": 125
     },
     {
-        "id": "accelerating-software-delivery",
-        "title": "Accelerating Software Delivery: Why Your Team Is Slowing Down",
-        "speaker_id": "ewald-verhoeven",
+        "id": "is-no-code-eating-the-software-world",
+        "title": "Is No-Code eating the software world?",
+        "speaker_id": "tomasz-wesolowski",
         "speaker_tags": [
-            "ewald-verhoeven"
+            "tomasz-wesolowski"
         ],
         "slot": 126
     },
@@ -155,15 +155,6 @@
         "slot": 135
     },
     {
-        "id": "effective-automated-testing",
-        "title": "Effective Automated Testing - Lessons from 10 Years",
-        "speaker_id": "cory-house",
-        "speaker_tags": [
-            "cory-house"
-        ],
-        "slot": 136
-    },
-    {
         "id": "how-to-make-your-website-a-pwa",
         "title": "How To Make Your Website A Progressive Web App (And Why You Might Want To)",
         "speaker_id": "lemon",
@@ -198,15 +189,6 @@
             "pawel-zawislak"
         ],
         "slot": 145
-    },
-    {
-        "id": "is-no-code-eating-the-software-world",
-        "title": "Is No-Code eating the software world?",
-        "speaker_id": "tomasz-wesolowski",
-        "speaker_tags": [
-            "tomasz-wesolowski"
-        ],
-        "slot": 146
     },
     {
         "id": "how-not-to-be-wrong-in-software-engineering",
@@ -263,11 +245,11 @@
         "slot": 216
     },
     {
-        "id": "the-immutable-laws-of-life-and-software",
-        "title": "The Immutable Laws of Software and Life: Code Accordingly",
-        "speaker_id": "cory-house",
+        "id": "closing",
+        "title": "Conference Closing",
+        "speaker_id": "organizers-pustelnik-abb",
         "speaker_tags": [
-            "cory-house"
+            "organizers-pustelnik-abb"
         ],
         "slot": 217
     },
